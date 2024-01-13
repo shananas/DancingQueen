@@ -1,6 +1,6 @@
 title: Dancing Queen
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
 - name: obj/M_EX880_DANCER.mdlx
   method: copy
